@@ -126,7 +126,7 @@ function buildCharts(sample) {
     // Deliverable 3: 4. Create the trace for the gauge chart.
     var guageChart = {
     
-      title: {text: "Belly Button Washing Frequency"},
+      title: {text: "Belly Button Washing Frequency Per Week"},
       gauge: { 
         axis: {range: [0,10]},
         bar: {color: "black"},
