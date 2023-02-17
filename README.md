@@ -1,2 +1,2 @@
 # BellyButton_BioDiversity
-ultilizing JA , HTML, and PlotLy to identify bacterial species in the belly button
+Organizing belly buttom data from volunteers to find bacteria species that can synthesis proteins that taste like beef. Working along side with Roza and the team at improbably beef. We would hope to find these special type of bacteria from people. So we took samples from volunteers belly button to see what bacteria has grown and if these bacteria species have the ability to syntheisis proteins that taste like beef. 
